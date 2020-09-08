@@ -1,1 +1,1 @@
-# napkinXC-ProsusAI-demo
+# napkinXC demo @ Prosus Global AI Marketplace
